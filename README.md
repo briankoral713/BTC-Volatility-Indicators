@@ -29,7 +29,7 @@ This paper will be expanded into a **Power BI dashboard**, allowing real-time fi
 ## Author
 **Brian Koralewski**  
 Economist | JD Candidate | Microsoft-Certified Power BI & Azure Analyst  
-[LinkedIn](https://www.linkedin.com/in/briankoralewski/) | [Website/Portfolio if you have one]
+[LinkedIn](https://www.linkedin.com/in/briankoralewski/)
 
 ---
 
