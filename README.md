@@ -5,9 +5,7 @@ This project explores how to observe and interpret **forward-looking volatility 
 
 The original research paper (PDF included) was written as part of my work as a Derivatives Strategist at Austere Capital. It presents a real-world framework for analyzing market sentiment and risk, drawing from both traditional finance (VIX, Black-Scholes) and the emerging digital asset space.
 
-![ATM IV Slope Chart](BTC-Volatility-Indicators/images
-/btc_volatility_page9_img1.jpeg
-)
+![ATM IV Slope Chart](BTC-Volatility-Indicators/images/btc_volatility_page9_img1.jpeg)
 
 ## Core Concepts
 - 📉 **Historical vs. Implied Volatility**
